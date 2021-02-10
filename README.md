@@ -18,9 +18,10 @@ Trollonion03  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=
 
 귀찮으면 하드코딩 :(
 
+Contact
+-------
 
-
-<center>[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trollonion03@gmail.com)](mailto:trollonion03@gmai.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trollonion03@gmail.com)](mailto:trollonion03@gmai.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/trollonion03)](https://www.facebook.com/trollonion03)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/trollonion_03)](https://www.instagram.com/trollonion_03)
 
