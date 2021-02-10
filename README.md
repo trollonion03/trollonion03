@@ -5,7 +5,7 @@ Trollonion03  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=
 
 사용 언어
 ---------
-![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white
+![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
 
 상태
 -------
