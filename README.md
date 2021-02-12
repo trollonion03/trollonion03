@@ -13,7 +13,7 @@ Trollonion03  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=
 ----------
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry Pi-C51A4A?style=flat-square&logo=Raspberry Pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry-Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
 
 상태
