@@ -23,7 +23,7 @@ Trollonion03  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=
 
 함수이름 대충지어놓음
 
-귀찮으면 하드코딩 :(
+오랜만에 코팅중 :)
 
 Contact
 -------
