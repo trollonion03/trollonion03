@@ -21,8 +21,6 @@ Trollonion03  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=
 
 코딩하면 할수록 잔머리만 늘어나는중
 
-함수이름 대충지어놓음
-
 오랜만에 코딩중 :)
 
 Contact
