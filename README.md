@@ -3,6 +3,8 @@ Trollonion03
 
 내맘대로 막 올리는 깃허브
 
+[![Trollonion03's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/trollonion03/github-readme-stats)
+
 사용 언어
 ---------
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
