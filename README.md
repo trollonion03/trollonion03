@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Trollonion03&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=Trollonion03&fontSize=60)
 
 내맘대로 막 올리는 깃허브
 
