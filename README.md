@@ -1,8 +1,6 @@
 Trollonion03
 ==============
 
-내맘대로 막 올리는 깃허브
-
 ![trollonion03's github stats](https://github-readme-stats.vercel.app/api?username=Trollonion03&show_icons=true)[![trollonion03's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollonion03&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/trollonion03)
 
 사용 언어
