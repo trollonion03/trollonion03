@@ -3,15 +3,13 @@ Trollonion03
 
 ![trollonion03's github stats](https://github-readme-stats.vercel.app/api?username=Trollonion03&show_icons=true&hide_border=true)[![trollonion03's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollonion03&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/trollonion03)
 
-사용 언어
+Tech Stack
 ---------
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
-개발 분야
-----------
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
