@@ -1,7 +1,13 @@
 Trollonion03
 ==============
 
-![trollonion03's github stats](https://github-readme-stats.vercel.app/api?username=Trollonion03&show_icons=true&hide_border=true)[![trollonion03's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Trollonion03&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/trollonion03)
+![trollonion03's github stats](https://github-readme-stats.vercel.app/api?username=Trollonion03&show_icons=true&hide_border=true)
+
+🔭 **Embeded** / **AI Engineer**
+
+📚 **Konkuk Univ. CSE**(2022.2. ~)
+
+
 
 Tech Stack
 ---------
