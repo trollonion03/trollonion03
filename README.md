@@ -10,7 +10,7 @@ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
-![TI-C2000](https://img.shields.io/static/v1?label=<LABEL>&message=C2000&color=CC0000)
+![TI-C2000](https://img.shields.io/static/v1?label=TI&message=C2000&color=CC0000?style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
