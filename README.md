@@ -5,10 +5,14 @@ Trollonion03
 
 Tech Stack
 ---------
+Main Stacks
+
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+
+Sub stacks
 
 ![TI-C2000](https://img.shields.io/badge/-TI--C2000-CC0000?style=flat-square)
 ![TI-Sitara](https://img.shields.io/badge/-TI--Sitara-CC0000?style=flat-square)
