@@ -15,7 +15,7 @@ Main Stacks
 Sub stacks
 
 ![TI-C2000](https://img.shields.io/badge/-TI--C2000-CC0000?style=flat-square)
-![TI-Sitara(AM437x)](https://img.shields.io/badge/-TI--Sitara(AM437x)-CC0000?style=flat-square)
+![TI-AM437x](https://img.shields.io/badge/-TI--AM437x-CC0000?style=flat-square)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
