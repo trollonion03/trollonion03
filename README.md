@@ -7,15 +7,15 @@ Tech Stack
 ---------
 **Main Stacks**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
+![TI-C2000](https://img.shields.io/badge/-TI--C2000-CC0000?style=flat-square)
+![TI-AM437x](https://img.shields.io/badge/-TI--AM437x-CC0000?style=flat-square)
 
 **Sub stacks**
 
-![TI-C2000](https://img.shields.io/badge/-TI--C2000-CC0000?style=flat-square)
-![TI-AM437x](https://img.shields.io/badge/-TI--AM437x-CC0000?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
