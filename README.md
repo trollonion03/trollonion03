@@ -36,4 +36,4 @@ Tech Stack
 Contact
 -------
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trollonion03@gmail.com)](mailto:trollonion03@gmai.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trollonion03@gmail.com)](mailto:trollonion03@gmail.com)
