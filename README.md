@@ -33,6 +33,11 @@ Tech Stack
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 
+Comment
+----------
+
+❗Business-related sources are not being uploaded!
+
 Contact
 -------
 
