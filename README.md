@@ -36,7 +36,7 @@ Tech Stack
 Comment
 ----------
 
-❗Business-related sources are not being uploaded! Even if uploaded, some sources are excluded.
+❗Business-related sources are not being uploaded! Even if uploaded, Important sources are excluded.
 
 Contact
 -------
