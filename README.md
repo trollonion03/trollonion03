@@ -22,7 +22,7 @@ Tech Stack
 
 **Sub stacks**(Used at least once)
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![MFC](https://img.shields.io/badge/MFC-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)
 ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=Nvidia&logoColor=white)
@@ -31,6 +31,7 @@ Tech Stack
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow--v1-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![NSIS](https://img.shields.io/badge/-NSIS-007396?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 
 Comment
