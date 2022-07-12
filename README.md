@@ -19,6 +19,7 @@ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
 ![TI-C2000](https://img.shields.io/badge/-TI--C2000-CC0000?style=flat-square)
 ![TI-AM437x](https://img.shields.io/badge/-TI--AM437x-CC0000?style=flat-square)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
 **Sub stacks**(Used at least once)
 
@@ -27,7 +28,6 @@ Tech Stack
 ![MFC](https://img.shields.io/badge/MFC-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)
 ![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=Nvidia&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow--v1-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
