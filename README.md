@@ -43,3 +43,4 @@ Contact
 -------
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trollonion03@gmail.com)](mailto:trollonion03@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/trollonion_03)](https://www.instagram.com/trollonion_03)
