@@ -27,8 +27,7 @@ Tech Stack
 
 BLOG
 ----------
-
-![Trollonion's_Blog](https://img.shields.io/badge/Trollonion03's_Blog-181717?style=flat-square&logo=GitHub&logoColor=white)
+[![Trollonion03_Blog](https://img.shields.io/badge/Trollonion03's_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://trollonion03.github.io)](https://trollonion03.github.io)
 
 Contact
 -------
