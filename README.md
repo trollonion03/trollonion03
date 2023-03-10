@@ -19,7 +19,7 @@ Tech Stack
 
 **Sub stacks**(Used at least once)
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
