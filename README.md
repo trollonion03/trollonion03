@@ -25,10 +25,10 @@ Tech Stack
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
-Comment
+BLOG
 ----------
 
-❗Business-related sources are not being uploaded! Even if uploaded, Important sources are excluded.
+![Trollonion's_Blog](https://img.shields.io/badge/Trollonion03's_Blog-181717?style=flat-square&logo=GitHub&logoColor=white)
 
 Contact
 -------
