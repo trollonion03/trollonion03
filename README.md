@@ -3,7 +3,9 @@ Trollonion03
 
 🔭 **Embedded** / **AI Engineer**
 
-📚 **Konkuk Univ. CSE**(2022.2. ~)
+📚 **Konkuk Univ. CSE** (2022.02. ~)
+
+🏢 **ASPL Inc - Research Assistant** (2022.01. ~)
 
 
 
