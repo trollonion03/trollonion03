@@ -1,7 +1,7 @@
 Trollonion03
 ==============
 
-🏢 **ASPL Inc** (2022.01. ~)
+🏢 **ASPL Inc.** (2022.01. ~)
 
 📚 **Konkuk Univ. CSE** (2022.02. ~)
 
