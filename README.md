@@ -25,6 +25,7 @@ Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 
 BLOG
 ----------
