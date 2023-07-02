@@ -26,7 +26,6 @@ Tech Stack
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 BLOG
 ----------
