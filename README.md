@@ -1,7 +1,7 @@
 Trollonion03
 ==============
 
-🏢 **ASPL Inc.** (2022.01. ~)
+🏢 **ASPL Inc.** - Embedded Developer (2022.01. ~)
 
 📚 **Konkuk Univ. CSE** (2022.02. ~)
 
@@ -9,23 +9,29 @@ Trollonion03
 
 Tech Stack
 ---------
-**Main Stacks**
+<div align=center>
+  <b><strong>Main Stacks</strong></b>
+  <br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/MFC-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/-TI--C28x-CC0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=Qt&logoColor=white">
+</div>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![MFC](https://img.shields.io/badge/MFC-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white)
-![TI-C2000](https://img.shields.io/badge/-TI--C2000-CC0000?style=flat-square)
-![Qt](https://img.shields.io/badge/Qt-000000?style=flat-square&logo=Qt&logoColor=white)
-
-**Sub stacks**(Used at least once)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+<div align=center>
+  <b><strong>Sub stacks</storng>(Used at least once)</b>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-0095d5?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Raspberry__Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+</div>
 
 BLOG
 ----------
