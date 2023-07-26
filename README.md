@@ -17,7 +17,7 @@ Tech Stack
   <br>
   <img src="https://img.shields.io/badge/MFC-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
   <img src="https://img.shields.io/badge/-TI--C28x-CC0000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=Qt&logoColor=white">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white">
 </div>
 
 <div align=center>
@@ -31,6 +31,10 @@ Tech Stack
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry__Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 </div>
 
 BLOG
