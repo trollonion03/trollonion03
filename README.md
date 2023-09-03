@@ -16,7 +16,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/MFC-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
-  <img src="https://img.shields.io/badge/-TI--C28x-CC0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-TI--C2000-CC0000?style=for-the-badge">
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white">
 </div>
 
