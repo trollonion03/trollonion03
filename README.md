@@ -1,7 +1,7 @@
 Trollonion03
 ==============
 
-🏢 **ASPL Inc.** - Embedded Developer (2022.01. ~ 2023.09.08) **On leave**
+🏢 **ASPL Inc.** - Embedded Developer (2022.01. ~ 2023.09.08) **Long-term Leave of Absence**
 
 📚 **Konkuk Univ. CSE** (2022.02. ~)
 
