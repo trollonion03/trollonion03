@@ -37,7 +37,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 </div>
 
-BLOG
+Blog
 ----------
 [![Trollonion03_Blog](https://img.shields.io/badge/Trollonion03's_Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://trollonion03.github.io)](https://trollonion03.github.io)
 
