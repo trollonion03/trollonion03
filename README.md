@@ -39,10 +39,10 @@ Tech Stack
 
 BLOG
 ----------
-[![Trollonion03_Blog](https://img.shields.io/badge/Trollonion03's_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://trollonion03.github.io)](https://trollonion03.github.io)
+[![Trollonion03_Blog](https://img.shields.io/badge/Trollonion03's_Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=https://trollonion03.github.io)](https://trollonion03.github.io)
 
 Contact
 -------
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trollonion03@gmail.com)](mailto:trollonion03@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/trollonion_03)](https://www.instagram.com/trollonion_03)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:trollonion03@gmail.com)](mailto:trollonion03@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/trollonion_03)](https://www.instagram.com/trollonion_03)
