@@ -5,7 +5,7 @@ Trollonion03
 
 📚 **Konkuk Univ. CSE** (2022.02. ~)
 
-🔭 **Embedded** / **AI Engineer**
+🔭 **Embedded Developer**
 
 Tech Stack
 ---------
